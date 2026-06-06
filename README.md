@@ -1,4 +1,22 @@
+---
+title: Medical Chatbot
+emoji: 🏥
+colorFrom: blue
+colorTo: green
+sdk: docker
+pinned: false
+---
+
 # 🏥 Medical Chatbot — AI-Powered RAG Application
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
+![Flask](https://img.shields.io/badge/Flask-3.1.1-black?style=for-the-badge&logo=flask)
+![LangChain](https://img.shields.io/badge/LangChain-0.3.26-green?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-Vector%20DB-purple?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-orange?style=for-the-badge&logo=openai)
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue?style=for-the-badge&logo=docker)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Spaces-yellow?style=for-the-badge)
+
 ---
 
 ## 🚀 Live Demo
@@ -204,6 +222,5 @@ pinecone-client
 - 🤗 [Hugging Face](https://huggingface.co/Sg31Ghosh)
 
 ---
-
 
 ⭐ **If you found this project helpful, please give it a star!**
